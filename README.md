@@ -1,2 +1,2 @@
 # python-project
-Python联系题库
+Python练习题库
